@@ -1,0 +1,24 @@
+# Site settings
+
+#google_analytics: UA-NNNNNNNN-N
+
+header_pages:
+- index.md
+- who.md
+- how.md
+
+footer: '<a href="https://github.com/verifieralliance">github</a> | <a href="https://twitter.com/verifalliance">X (twitter)</a> | <a href="https://warpcast.com/verifieralliance.eth"> farcaster</a>'
+
+style: dark
+listen_for_clients_preferred_style: true
+
+gems:
+  - jekyll-inline-svg
+
+plugins:
+  - jekyll-seo-tag
+
+theme: jekyll-theme-console
+
+svg:
+  optimize: true
