@@ -15,9 +15,6 @@ footer: '<a href="https://github.com/verifieralliance">github</a> | <a href="htt
 style: dark
 listen_for_clients_preferred_style: true
 
-gems:
-  - jekyll-inline-svg
-
 plugins:
   - jekyll-seo-tag
 
