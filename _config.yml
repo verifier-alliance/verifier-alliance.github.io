@@ -2,6 +2,9 @@
 
 #google_analytics: UA-NNNNNNNN-N
 
+domain: vera.github.io
+url: https://verifieralliance.org
+
 header_pages:
 - index.md
 - who.md
