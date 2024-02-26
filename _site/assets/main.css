@@ -102,10 +102,10 @@ footer {
   margin-bottom: 20px; }
 
 .header-image {
-  width: 400px;
-  height: 100px;
+  width: 20rem;
+  height: auto;
   display: block;
-  margin-left: -25px; }
+  margin-left: -15px; }
 
 .inline-image img {
   width: 100%;

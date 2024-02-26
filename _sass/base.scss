@@ -44,8 +44,8 @@ a:hover {
 }
 @media only screen and (max-device-width: 1700px) {
      * {
-         font-size: $mobile-font-size !important; 
-        } 
+         font-size: $mobile-font-size !important;
+        }
     }
 
 /**
@@ -54,8 +54,8 @@ a:hover {
 .container { 
     width: $container-width;  
     max-width: $container-max-width;  
-    margin-right: auto;  
-    margin-left: auto; 
+    margin-right: auto;
+    margin-left: auto;
 }
 p { 
     word-wrap: break-word;  
@@ -79,10 +79,10 @@ footer {
 }
 
 .header-image {
-    width: 400px;
-    height: 100px;
+    width: 20rem;
+    height: auto;
     display: block;
-    margin-left: -25px;
+    margin-left: -15px;
 }
 
 .inline-image img {
