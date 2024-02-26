@@ -1,6 +1,7 @@
 ---
-title: /home
+title: The Verifier Alliance
 layout: home
+description: Ecosystem collective aiming for easy, unified, and open access to the source-code of EVM smart contracts
 permalink: /
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: /who
+title: The Alliance
 layout: page
 permalink: /who.html
 ---
