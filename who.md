@@ -23,6 +23,7 @@ The Alliance is dedicated to push the data and smart contract verification tooli
 ## Data providers
 
 ![blockscout_icon](/assets/icons/blockscout.svg){: .inline-image} [Blockscout](https://blockscout.com)
+![dora_icon](/assets/icons/dora.png){: .inline-image} [Dora](https://ondora.xyz)
 ![routescan_icon](/assets/icons/routescan.svg){: .inline-image} [Routescan](https://routescan.io)
 ![sourcify_icon](/assets/icons/sourcify.svg){: .inline-image} [Sourcify](https://sourcify.dev)
 ![tenderly_icon](/assets/icons/tenderly.png){: .inline-image} [Tenderly](https://tenderly.co)
@@ -32,8 +33,8 @@ The Alliance is dedicated to push the data and smart contract verification tooli
 ![beaconcha.in_icon](/assets/icons/beaconcha.in.jpg){: .inline-image} [Beaconchain](https://beaconcha.in)
 ![codeslaw_icon](/assets/icons/codeslaw.svg){: .inline-image} [Codeslaw](https://www.codeslaw.app/)
 ![conduit_icon](/assets/icons/conduit.svg){: .inline-image} [Conduit](https://conduit.xyz)
-![samczsun_icon](/assets/icons/samczsun.jpg){: .inline-image} [samczsun](https://twitter.com/samczsun)
-![vyper_icon](/assets/icons/vyper.svg){: .inline-image} [Vyper](https://docs.vyperlang.org/)
+![paradigm_icon](/assets/icons/paradigm.png){: .inline-image} [Paradigm](https://www.paradigm.xyz/)
+![vyper_icon](/assets/icons/vyper.png){: .inline-image} [Vyper](https://docs.vyperlang.org/)
 
 ## Ecosystems
 
