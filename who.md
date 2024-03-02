@@ -42,5 +42,4 @@ The Alliance is dedicated to push the data and smart contract verification tooli
 ![optimism_icon](/assets/icons/optimism.svg){: .inline-image} [Optimism](https://optimism.io)
 
 ## New partners
-The Alliance is currently not looking to accept new partners, but it will in the future. 
-If you're interested in applying, send an email to [join@verifieralliance.org](mailto:join@verifieralliance.org?subject=Joining%20the%20Alliance)
+If you're interested in joining the Verifier Alliance, send an email to [join@verifieralliance.org](mailto:join@verifieralliance.org?subject=Joining%20the%20Alliance)
