@@ -1,7 +1,7 @@
 ---
 title: Hello World
 layout: page
-permalink: /blog/hello-world.html
+permalink: /blog/hello-world
 ---
 
 # The Verifier Alliance Launches Unified Database for EVM Smart Contracts' Source Code

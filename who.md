@@ -8,7 +8,7 @@ permalink: /who.html
 
 The main outcome of the Alliance is a shared database of contracts' source code on different EVM chains from different verification providers. The database is publicly accessible by anyone. 
 
-One key aspect of the database is to have a common schema for verified contracts. The schema can be accessed [**here**](/how.html).
+One key aspect of the database is to have a common schema for verified contracts. The schema can be accessed [**here**](https://github.com/verifier-alliance/database-specs).
 
 ## Shared knowledge
 
