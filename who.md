@@ -34,7 +34,7 @@ The Alliance is dedicated to push the data and smart contract verification tooli
 ![codeslaw_icon](/assets/icons/codeslaw.svg){: .inline-image} [Codeslaw](https://www.codeslaw.app/)
 ![conduit_icon](/assets/icons/conduit.svg){: .inline-image} [Conduit](https://conduit.xyz)
 ![paradigm_icon](/assets/icons/paradigm.png){: .inline-image} [Paradigm](https://www.paradigm.xyz/)
-![vyper_icon](/assets/icons/vyper.png){: .inline-image} [Vyper](https://docs.vyperlang.org/)
+![vyper_icon](/assets/icons/vyper.svg){: .inline-image} [Vyper](https://docs.vyperlang.org/)
 
 ## Ecosystems
 
