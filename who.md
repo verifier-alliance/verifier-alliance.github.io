@@ -6,9 +6,9 @@ permalink: /who.html
 
 ## Database
 
-The main outcome of the Alliance is a shared database of contracts' source code on different EVM chains from different verification providers. The database is publicly accessible by anyone. 
+The main outcome of the Alliance is a shared database of contracts' source code on different EVM chains from different verification providers. The database is publicly accessible by anyone.
 
-One key aspect of the database is to have a common schema for verified contracts. The schema can be accessed [**here**](https://github.com/verifier-alliance/database-specs).
+One key aspect of the database is to have a common schema for verified contracts. Check out the [schema definition](https://github.com/verifier-alliance/database-specs) or the [interactive schema](https://dbdiagram.io/d/Verifier-Alliance-Schema-66575805b65d93387902b460)
 
 ## Shared knowledge
 
@@ -28,7 +28,7 @@ The Alliance is dedicated to push the data and smart contract verification tooli
 ![sourcify_icon](/assets/icons/sourcify.svg){: .inline-image} [Sourcify](https://sourcify.dev)
 ![tenderly_icon](/assets/icons/tenderly.png){: .inline-image} [Tenderly](https://tenderly.co)
 
-## Contributors 
+## Contributors
 
 ![beaconcha.in_icon](/assets/icons/beaconcha.in.jpg){: .inline-image} [Beaconchain](https://beaconcha.in)
 ![codeslaw_icon](/assets/icons/codeslaw.svg){: .inline-image} [Codeslaw](https://www.codeslaw.app/)
@@ -42,4 +42,5 @@ The Alliance is dedicated to push the data and smart contract verification tooli
 ![optimism_icon](/assets/icons/optimism.svg){: .inline-image} [Optimism](https://optimism.io)
 
 ## New partners
+
 If you're interested in joining the Verifier Alliance, send an email to [join@verifieralliance.org](mailto:join@verifieralliance.org?subject=Joining%20the%20Alliance)
