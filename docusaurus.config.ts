@@ -71,6 +71,7 @@ const config: Config = {
       logo: {
         alt: "Verifier Alliance Logo",
         src: "/verifier-alliance.png",
+        srcDark: "/verifier-alliance-white.png",
       },
       items: [
         { to: "/docs/intro", label: "Docs", position: "left" },
