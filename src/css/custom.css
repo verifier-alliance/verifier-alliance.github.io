@@ -38,7 +38,7 @@
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
 }
 
-a {
+.footer__link-item {
   display: flex;
   align-items: center;
 }
