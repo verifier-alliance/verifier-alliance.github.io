@@ -51,3 +51,7 @@
 ul {
   list-style-type: disc;
 }
+
+ul .list-none {
+  list-style-type: none;
+}

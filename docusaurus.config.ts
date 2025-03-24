@@ -6,8 +6,7 @@ import type * as Preset from "@docusaurus/preset-classic";
 
 const config: Config = {
   title: "Verifier Alliance",
-  tagline:
-    "Verifier Alliance is an ecosystem collective aiming for easy, unified, and open access to the source-code of EVM smart contracts.",
+  tagline: "An ecosystem collective for easy, unified, and open access to the source-code of EVM smart contracts.",
   favicon: "img/favicon.ico",
 
   // Set the production url of your site here
