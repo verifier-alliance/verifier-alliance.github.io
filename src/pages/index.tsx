@@ -21,7 +21,7 @@ export default function Home(): ReactNode {
         />
         <div className="text-xl md:text-2xl tracking-tight text-center">{siteConfig.tagline}</div>
         <div className="flex flex-col max-w-2xl text-center mt-12 mb-6">
-          <div className=" dark:text-gray-300">
+          <div className="">
             <div>
               <div className="text-xl font-semibold">Database Schema</div>
               <p>
