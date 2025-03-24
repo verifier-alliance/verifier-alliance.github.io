@@ -21,3 +21,30 @@
   align-items: center;
   justify-content: center;
 }
+
+.logo {
+  width: 100%;
+  padding: 0 2rem;
+}
+
+@media (min-width: 768px) {
+  .logo {
+    width: 50%;
+  }
+}
+
+.logoLight {
+  display: block;
+}
+
+.logoDark {
+  display: none;
+}
+
+:global([data-theme="dark"]) .logoLight {
+  display: none;
+}
+
+:global([data-theme="dark"]) .logoDark {
+  display: block;
+}
