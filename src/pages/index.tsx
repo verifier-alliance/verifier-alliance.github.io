@@ -48,13 +48,13 @@ export default function Home(): ReactNode {
         <div className="flex flex-col">
           <h2 className="text-2xl  font-semibold text-center mb-8">Verifiers</h2>
           <div className="grid grid-cols-3 gap-8 place-items-center">
-            <Link className="flex flex-col items-center gap-2 group" to="https://sourcify.dev">
+            <Link className="flex flex-col items-center gap-2 group" to="https://blockscout.com">
               <img
-                src="/sourcify.svg"
-                alt="Sourcify Logo"
+                src="/blockscout.svg"
+                alt="Blockscout Logo"
                 className="h-16 rounded-full transition-transform group-hover:scale-105"
               />
-              <p className="group-hover:text-primary text-center">Sourcify</p>
+              <p className="group-hover:text-primary text-center">Blockscout</p>
             </Link>
             <Link className="flex flex-col items-center gap-2 group" to="https://routescan.io">
               <img
@@ -64,13 +64,13 @@ export default function Home(): ReactNode {
               />
               <p className="group-hover:text-primary text-center">Routescan</p>
             </Link>
-            <Link className="flex flex-col items-center gap-2 group" to="https://blockscout.com">
+            <Link className="flex flex-col items-center gap-2 group" to="https://sourcify.dev">
               <img
-                src="/blockscout.svg"
-                alt="Blockscout Logo"
+                src="/sourcify.svg"
+                alt="Sourcify Logo"
                 className="h-16 rounded-full transition-transform group-hover:scale-105"
               />
-              <p className="group-hover:text-primary text-center">Blockscout</p>
+              <p className="group-hover:text-primary text-center">Sourcify</p>
             </Link>
           </div>
         </div>
