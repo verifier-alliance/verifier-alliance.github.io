@@ -6,7 +6,8 @@ import type * as Preset from "@docusaurus/preset-classic";
 
 const config: Config = {
   title: "Verifier Alliance",
-  tagline: "An ecosystem collective for easy, unified, and open access to the source-code of EVM smart contracts.",
+  tagline:
+    "An ecosystem collective for easy, unified, and open access to the source-code of EVM smart contracts.",
   favicon: "img/favicon.ico",
 
   // Set the production url of your site here
@@ -39,7 +40,8 @@ const config: Config = {
           sidebarPath: "./sidebars.ts",
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
-          editUrl: "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/",
+          editUrl:
+            "https://github.com/verifier-alliance/verifier-alliance.github.io/",
         },
         blog: {
           showReadingTime: true,
@@ -49,7 +51,8 @@ const config: Config = {
           },
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
-          editUrl: "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/",
+          editUrl:
+            "https://github.com/verifier-alliance/verifier-alliance.github.io/",
           // Useful options to enforce blogging best practices
           onInlineTags: "warn",
           onInlineAuthors: "warn",
@@ -76,7 +79,7 @@ const config: Config = {
         { to: "/docs/intro", label: "Docs", position: "left" },
         { to: "/blog", label: "Blog", position: "left" },
         {
-          href: "https://github.com/facebook/docusaurus",
+          href: "https://github.com/verifier-alliance",
           label: "GitHub",
           position: "right",
         },
