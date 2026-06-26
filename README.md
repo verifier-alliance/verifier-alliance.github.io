@@ -1,6 +1,8 @@
-# Website
+# Verifier Alliance Documentation and Website
 
-This website is built using [Docusaurus](https://docusaurus.io/), a modern static website generator.
+http://verifieralliance.org
+
+Built using [Docusaurus](https://docusaurus.io/)
 
 ### Installation
 
